@@ -6,6 +6,7 @@ Security_vendors_University_DB
 (Web) Security_vendors_University_DB -> File -> View Raw (Click)
 
 (Mobile) View code -> Security_vendors_University_DB -> File -> Open binary file (Click)
+
 ----------------------------------------------------------------------------------------                
 [Collaborator]
 
